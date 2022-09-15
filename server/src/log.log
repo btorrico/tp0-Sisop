@@ -1,0 +1,38 @@
+[INFO] 23:24:13:593 Servidor/(43881:43881): Servidor listo para recibir al cliente
+[INFO] 00:16:27:439 Servidor/(44858:44858): Servidor listo para recibir al cliente
+[INFO] 21:26:31:479 Servidor/(47024:47024): Servidor listo para recibir al cliente
+[INFO] 19:51:38:227 Servidor/(49521:49521): Servidor listo para recibir al cliente
+[INFO] 20:51:44:548 Servidor/(50148:50148): Servidor listo para recibir al cliente
+[INFO] 21:00:00:063 Servidor/(50335:50335): Servidor listo para recibir al cliente
+[INFO] 21:00:18:345 Servidor/(50343:50343): Servidor listo para recibir al cliente
+[INFO] 21:01:03:630 Servidor/(50343:50343): Se conecto un cliente!
+[INFO] 21:01:14:239 Servidor/(50343:50343): Me llego el mensaje valor
+[ERROR] 00:56:55:420 Servidor/(50343:50343): el cliente se desconecto. Terminando servidor
+[INFO] 00:57:16:044 Servidor/(50447:50447): Servidor listo para recibir al cliente
+[INFO] 01:00:02:846 Servidor/(50447:50447): Se conecto un cliente!
+[INFO] 01:00:47:904 Servidor/(50447:50447): Me llego el mensaje valor
+[INFO] 01:02:31:827 Servidor/(50447:50447): Me llegaron los siguientes valores:
+
+[INFO] 01:02:31:827 Servidor/(50447:50447): ghggj
+[INFO] 01:02:31:827 Servidor/(50447:50447): jhj
+[ERROR] 01:04:21:237 Servidor/(50447:50447): el cliente se desconecto. Terminando servidor
+[INFO] 01:07:39:605 Servidor/(50707:50707): Servidor listo para recibir al cliente
+[INFO] 01:07:50:903 Servidor/(50707:50707): Se conecto un cliente!
+[INFO] 01:07:52:915 Servidor/(50707:50707): Me llego el mensaje: valor
+[INFO] 01:08:17:029 Servidor/(50707:50707): Me llegaron los siguientes valores:
+
+[INFO] 01:08:17:029 Servidor/(50707:50707): Hola
+[INFO] 01:08:17:029 Servidor/(50707:50707): Soy un Mensaje
+[INFO] 01:08:17:029 Servidor/(50707:50707): Partido
+[ERROR] 01:08:23:830 Servidor/(50707:50707): el cliente se desconecto. Terminando servidor
+[INFO] 01:10:01:323 Servidor/(50753:50753): Servidor listo para recibir al cliente
+[INFO] 01:12:36:818 Servidor/(50753:50753): Se conecto un cliente!
+[INFO] 01:12:40:637 Servidor/(50753:50753): Me llego el mensaje: valor
+[INFO] 01:13:00:554 Servidor/(50753:50753): Me llegaron los siguientes valores:
+
+[INFO] 01:13:00:554 Servidor/(50753:50753): Hola
+[INFO] 01:13:00:554 Servidor/(50753:50753): Yo si sirvo para algo gg
+[ERROR] 01:13:07:200 Servidor/(50753:50753): el cliente se desconecto. Terminando servidor
+[INFO] 01:14:02:511 Servidor/(50845:50845): Servidor listo para recibir al cliente
+[INFO] 01:51:58:434 Servidor/(51626:51626): Servidor listo para recibir al cliente
+[INFO] 00:12:12:117 Servidor/(6206:6206): Servidor listo para recibir al cliente
